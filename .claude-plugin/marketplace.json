@@ -1,0 +1,11 @@
+{
+  "name": "globex-tools",
+  "owner": { "name": "Globex Inc" },
+  "plugins": [
+    {
+      "name": "deploy-helper",
+      "source": "./plugins/deploy-helper",
+      "description": "Deployment helper published by Globex Inc"
+    }
+  ]
+}
